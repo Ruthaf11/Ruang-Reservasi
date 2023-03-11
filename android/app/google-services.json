@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "479117788296",
+    "project_id": "signupin-df603",
+    "storage_bucket": "signupin-df603.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479117788296:android:76a362dc2dd51743264b3d",
+        "android_client_info": {
+          "package_name": "com.example.signupin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479117788296-77fkvs6jle4kj2a0ib17078kr797n429.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.signupin",
+            "certificate_hash": "90707b611db96f1c76c36cc142b22344513fa86e"
+          }
+        },
+        {
+          "client_id": "479117788296-mfcjchq6kgo5h0anlqbav6of0qt43ldn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmWKpqRRZopce9INk6AQ8S3LcXXptU8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479117788296-mfcjchq6kgo5h0anlqbav6of0qt43ldn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
